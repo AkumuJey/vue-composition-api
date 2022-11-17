@@ -1,0 +1,18 @@
+{"posts": [
+    {"id": "1",
+    "title": "Welcome to the blog",
+    "body": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Fugit maiores tempora at necessitatibus, repudiandae minus animi, officiis nisi dolor architecto expedita, quos sed dolores dignissimos autem soluta voluptate qui quasi harum sapiente reprehenderit. Quas vero ea sit facere eos. Culpa fuga ea dicta cum amet porro tempore, recusandae corrupti eveniet libero. Incidunt repellendus saepe quis alias sequi unde quasi in rem doloremque consectetur architecto ducimus, expedita odio eligendi sed sapiente! Nam eveniet, libero repellat eos quos consequatur dignissimos excepturi voluptatum animi ad ipsa architecto est? Explicabo voluptatum quam rerum iure magnam dicta? Molestias nisi sequi tenetur assumenda velit, deleniti quia odio! Eveniet cupiditate, nulla recusandae neque consectetur alias doloribus consequatur quos facere iste qui voluptatibus cumque, dolore officia similique fuga suscipit molestias? Optio sequi quidem labore placeat molestias pariatur dolore sunt, ea, nulla reiciendis, doloribus quod. Non doloribus repudiandae hic aliquam quisquam rerum incidunt repellat fugiat nisi possimus quia, eos, fuga veritatis, iusto voluptatibus ipsam numquam officia officiis cum et esse dolorem sint! Voluptas quos quis aut distinctio optio doloribus labore accusantium laboriosam, quibusdam ipsam, blanditiis cum voluptates quod ad repudiandae nostrum vel saepe necessitatibus eveniet mollitia ratione placeat illum esse cumque! Rem nam pariatur nostrum molestias illum, officiis voluptas!",
+    "tags": [
+        "Doctor",
+        "Web Developer",
+        "Athlete"
+    ]},
+    { "id": 2, 
+    "title": "Daktari 001", 
+    "body": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Fugit maiores tempora at necessitatibus, repudiandae minus animi, officiis nisi dolor architecto expedita, quos sed dolores dignissimos autem soluta voluptate qui quasi harum sapiente reprehenderit. Quas vero ea sit facere eos. Culpa fuga ea dicta cum amet porro tempore, recusandae corrupti eveniet libero. Incidunt repellendus saepe quis alias sequi unde quasi in rem doloremque consectetur architecto ducimus, expedita odio eligendi sed sapiente! Nam eveniet, libero repellat eos quos consequatur dignissimos excepturi voluptatum animi ad ipsa architecto est? Explicabo voluptatum quam rerum iure magnam dicta? Molestias nisi sequi tenetur assumenda velit, deleniti quia odio! Eveniet cupiditate, nulla recusandae neque consectetur alias doloribus consequatur quos facere iste qui voluptatibus cumque, dolore officia similique fuga suscipit molestias? Optio sequi quidem labore placeat molestias pariatur dolore sunt, ea, nulla reiciendis, doloribus quod. Non doloribus repudiandae hic aliquam quisquam rerum incidunt repellat fugiat nisi possimus quia, eos, fuga veritatis, iusto voluptatibus ipsam numquam officia officiis cum et esse dolorem sint! Voluptas quos quis aut distinctio optio doloribus labore accusantium laboriosam, quibusdam ipsam, blanditiis cum voluptates quod ad repudiandae nostrum vel saepe necessitatibus eveniet mollitia ratione placeat illum esse cumque! Rem nam pariatur nostrum molestias illum, officiis voluptas!",
+    "tags": [
+        "HTML",
+        "CSS",
+        "Javascript"
+    ]}
+  ]}
