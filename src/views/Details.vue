@@ -7,7 +7,10 @@
             <h3>{{ post.title }}</h3>
             <p class="pre">{{post.body}}</p>
         </div>
-        <div v-else>Blog is loading...</div>
+        <div v-else>
+            <p>Blog is loading......</p>
+            <p>Amazing Reading awaits</p>
+        </div>
     </div>
 </template>
 
